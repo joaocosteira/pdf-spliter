@@ -6,7 +6,7 @@ De forma exemplificativa, com o objetivo de gerar um pdf output composto pelas t
 
 `./pdfSpliter input.pdf output.pdf 1 3 `
 ### Descrição:
-- input.pdf : Input file para fazer o split 
-- output.pdf : Output file para fazer o split 
-- 1 : número de primeira pagina (exemplo)
-- 3 : número da ultima página (exemplo)
+- input.pdf : Ficheiro sobre o qual queremos extraír informação
+- output.pdf : Ficheiro com os resultados
+- 1 : número da página inicial (exemplo)
+- 3 : número da página final (exemplo)
